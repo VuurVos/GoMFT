@@ -7,7 +7,7 @@
 GoMFT is a web-based managed file transfer application built with Go, leveraging rclone for robust file transfer capabilities. It provides a user-friendly interface for configuring, scheduling, and monitoring file transfers across various storage providers.
 
 <p align="center">
-  <a href="https://discord.gg/f9dwtM3j">
+  <a href="https://discord.gg/mGsBaHQNgC">
     <img src="https://img.shields.io/discord/1351354052654403675?color=7289da&logo=discord&logoColor=white&label=Discord" alt="Join our Discord server!" />
   </a>
   <a href="https://starfleetcptn.github.io/GoMFT/">
